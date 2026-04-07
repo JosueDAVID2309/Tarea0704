@@ -2,6 +2,7 @@
     ViewData["Title"] = "Registrar";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+@Model User
 
 <h1>Registrar</h1>
 <form asp-action ="Registrar" asp-controller="User" method="post">
@@ -19,4 +20,4 @@
     <input type="password" name="contraseña" placeholder="Contraseña"/>
     <input type="submit" value="REGISTRARSE" />
 </form>
-<a href="@Url.Action("Index", "User")></a>
+<a href="@Url.Action("Index", "User")">Volver</a>

@@ -1,5 +1,7 @@
 ﻿using tarea0704.Controllers.repository;
+using tarea0704.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 
 namespace tarea0704.Controllers
 {
@@ -23,7 +25,14 @@ namespace tarea0704.Controllers
             string[] parametros = ["'"+correo+"'", "'"+contraseña+"'"];
             Boolean existe = userRepository.verificarUsuario(parametros);
 
-            ViewBag.Mensaje = existe ? "Bienvenido " + correo : "Credenciales Incorrectas";
+            if(existe){
+                User user = userRepository.ObtenerUsuario(correo);
+                ViewBag.Mensaje = "Bienvenido " + user.Nombres + " "+ user.Apellidos;
+            }
+            else
+            {
+                ViewBag.Mensaje = "Credenciales Incorrectas";
+            }
 
             return View();
         }
