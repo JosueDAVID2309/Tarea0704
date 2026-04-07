@@ -234,3 +234,4 @@ C:\Users\Alumno\Desktop\Tarea-Onpe\tarea0704\obj\Debug\net8.0\refint\tarea0704.d
 C:\Users\Alumno\Desktop\Tarea-Onpe\tarea0704\obj\Debug\net8.0\tarea0704.pdb
 C:\Users\Alumno\Desktop\Tarea-Onpe\tarea0704\obj\Debug\net8.0\tarea0704.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\Tarea-Onpe\tarea0704\obj\Debug\net8.0\ref\tarea0704.dll
+C:\Users\Alumno\Desktop\Tarea-Onpe\tarea0704\obj\Debug\net8.0\tarea0704.sourcelink.json

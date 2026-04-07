@@ -8,5 +8,9 @@ namespace tarea0704.Controllers
         {
             return View();
         }
+
+        public IActionResult Registrar() {
+            return View();
+        }
     }
 }

@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Registrar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Registrar</h1>
+<form asp-action ="Registrar" asp-controller="User" method="post">
+    <input type="text" name="nombres" placeholder="Nombres" required/>
+    <input type="text" name="apellidos" placeholder="Apellidos" required/>
+    <input type="text" name="usuario" placeholder="Usuario" required/>
+    <select name="genero" required>
+        <option value="" selected >Seleccionar Genero</option> 
+        <option value="M">Masculino</option>
+        <option value="F">Femenino</option>
+    </select>
+    <input type="date" name="f_nacimiento" placeholder="Fecha de Nacimiento" required/>
+    <input type="text" name="dni" max="8" placeholder="DNI" required/>
+    <input type="email" name="correo" placeholder="Email" required />
+    <input type="password" name="contraseña" placeholder="Contraseña"/>
+    <input type="submit" value="REGISTRARSE" />
+</form>
+<a href="@Url.Action("Index", "User")></a>

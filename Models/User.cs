@@ -1,4 +1,6 @@
-﻿namespace tarea0704.Models
+﻿using System.Data;
+
+namespace tarea0704.Models
 {
     public class User
     {
@@ -12,17 +14,18 @@
         public string correo { get; set; }
         public string contraseña { get; set; }
 
-        public User(int id, string nombres, string apellidos, string usuario, string genero, string f_nacimiento, string dni, string correo, string contraseña)
+        public User(DataRow row)
         {
-            Id = id;
-            Nombres = nombres;
-            Apellidos = apellidos;
-            this.usuario = usuario;
-            this.genero = genero;
-            this.f_nacimiento = f_nacimiento;
-            this.dni = dni;
-            this.correo = correo;
-            this.contraseña = contraseña;
+            this.Id = Convert.ToInt32(row["id"]);
+            this.Nombres = row["nombres"].ToString();
+            this.Apellidos = row["apellidos"].ToString().Trim();
+            this.usuario = row["usuarios"].ToString();
+            this.genero = row["genero"].ToString();
+            this.f_nacimiento = row["f_nacimiento"].ToString();
+            this.dni = row["dni"].ToString();
+            this.correo = row["correo"].ToString();
+            this.contraseña = row["contraseña"].ToString();
+
         }
     }
 }

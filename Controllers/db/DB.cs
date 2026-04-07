@@ -12,7 +12,7 @@ namespace tarea0704.Controllers.db
             if (parametros != null)
             {
                 foreach (string param in parametros) {
-                    sql += param;
+                    sql += param+" ";
                 }
 
             }
