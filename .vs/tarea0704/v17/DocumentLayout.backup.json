@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\tarea0704\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\views\\user\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:views\\user\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\controllers\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:controllers\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\controllers\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\controllers\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:controllers\\db\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\controllers\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:controllers\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea-onpe\\tarea0704\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|c:\\users\\alumno\\desktop\\tarea0704\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACEFC873-BB58-4565-B1EC-292E2B25F762}|tarea0704.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,77 +46,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Registrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Views\\User\\Registrar.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Registrar.cshtml",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Views\\User\\Registrar.cshtml",
-              "RelativeToolTip": "Views\\User\\Registrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T15:07:45.337Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\repository\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Controllers\\repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\repository\\UserRepository.cs",
               "RelativeToolTip": "Controllers\\repository\\UserRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T13:56:28.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T13:52:04.343Z",
+              "WhenOpened": "2026-04-07T13:56:28.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DB.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\db\\DB.cs",
-              "RelativeDocumentMoniker": "Controllers\\db\\DB.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\db\\DB.cs",
-              "RelativeToolTip": "Controllers\\db\\DB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T13:44:04.543Z"
+              "WhenOpened": "2026-04-07T13:52:04.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-07T13:39:07.031Z",
+              "DocumentIndex": 1,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\db\\DB.cs",
+              "RelativeDocumentMoniker": "Controllers\\db\\DB.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\db\\DB.cs",
+              "RelativeToolTip": "Controllers\\db\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:44:04.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:30:24.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T13:39:07.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -124,40 +129,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T13:30:24.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T13:29:49.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T13:29:49.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T13:26:52.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\tarea0704\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T16:12:30.474Z"
             }
           ]
         }

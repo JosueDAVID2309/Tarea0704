@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y+KKZxWTC/4=",
+  "dgSpecHash": "cW+qSnlqA30=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alumno\\Desktop\\Tarea-Onpe\\tarea0704\\tarea0704.csproj",
+  "projectFilePath": "C:\\Users\\Alumno\\Desktop\\tarea0704\\tarea0704.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumno\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Alumno\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

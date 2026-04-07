@@ -4,18 +4,16 @@ namespace tarea0704.Controllers.db
 {
     public class DB
     {
-        SqlConnection cn = new SqlConnection("");
+        SqlConnection cn = new SqlConnection("Data Source=8CGK1P111102A18;Integrated Security=True;Initial Catalog= TareaCShard ; Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;");
 
         public DataTable EjecutarSQL(string sql, string[] parametros = null)
         {
             DataTable dt = new DataTable();
             if (parametros != null)
             {
-                foreach (string param in parametros) {
-                    sql += param+" ";
-                }
-
+                sql += String.Join(",", parametros);
             }
+            Console.Write(sql);
             SqlCommand cmd = new SqlCommand(sql, cn);
             cmd.CommandType = CommandType.Text;
             cmd.Parameters.Clear();

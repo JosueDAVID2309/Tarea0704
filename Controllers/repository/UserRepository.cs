@@ -25,5 +25,13 @@ namespace tarea0704.Controllers.repository
 
             db.EjecutarSQL("sp_registrar", parametros);
         }
+
+        public Boolean verificarUsuario(string[] parametros)
+        {
+            DB db = new DB();
+            DataTable dt = db.EjecutarSQL("verificarUsuario ", parametros);
+
+            return dt.Rows.Count > 0;
+        }
     }
 }
