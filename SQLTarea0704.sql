@@ -1,5 +1,8 @@
 create database TareaCShard
+go
+
 use TareaCShard
+go
 
 create table Usuarios(
 	id INT IDENTITY(1,1) PRIMARY KEY,
@@ -12,10 +15,12 @@ create table Usuarios(
 	correo VARCHAR(50) UNIQUE NOT NULL,
 	contraseña VARCHAR(40) NOT NULL
 );
+go
 
 INSERT INTO Usuarios (nombres, apellidos, usuarios, genero, f_nacimiento, dni, correo, contraseña) VALUES 
 ('Carlos', 'Ramírez Torres', 'carlosr', 'M', '1998-05-14', '60451263' , 'carlos.ramirez@gmail.com', 'pass123'),
 ('Lucía', 'Fernández Gómez', 'luciaf', 'F', '2001-09-22', '74653215' , 'lucia.fernandez@gmail.com', 'secure456')
+go
 
 CREATE PROCEDURE sp_registrar
 @nombres VARCHAR(50),

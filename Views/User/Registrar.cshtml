@@ -2,12 +2,12 @@
     ViewData["Title"] = "Registrar";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-@Model User
+@model User
 
 <h1>Registrar</h1>
-<form asp-action ="Registrar" asp-controller="User" method="post">
-    <input type="text" name="nombres" placeholder="Nombres" required/>
-    <input type="text" name="apellidos" placeholder="Apellidos" required/>
+<form asp-action ="Registrarse" asp-controller="User" method="post">
+    <input type="text" name="Nombres" placeholder="Nombres" required/>
+    <input type="text" name="Apellidos" placeholder="Apellidos" required/>
     <input type="text" name="usuario" placeholder="Usuario" required/>
     <select name="genero" required>
         <option value="" selected >Seleccionar Genero</option> 

@@ -4,7 +4,7 @@ namespace tarea0704.Controllers.db
 {
     public class DB
     {
-        SqlConnection cn = new SqlConnection("Data Source=8CGK1P111102A18;Integrated Security=True;Initial Catalog= TareaCShard ; Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Encrypt=False;TrustServerCertificate=False;");
+        SqlConnection cn = new SqlConnection("Data Source=localhost\\SQLEXPRESS;Initial Catalog=TareaCShard;Integrated Security=True;");
 
         public DataTable EjecutarSQL(string sql, string[] parametros = null)
         {

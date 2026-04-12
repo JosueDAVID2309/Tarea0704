@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea0704")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a697a3ab31a219deff836c7b3a51776e45546aeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bc350b127824b319ec739a0a7356ea129f4004c")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea0704")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea0704")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
