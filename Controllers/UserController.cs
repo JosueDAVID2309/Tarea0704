@@ -2,11 +2,14 @@
 using tarea0704.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Data;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace tarea0704.Controllers
 {
     public class UserController : Controller
     {
+        UserRepository userRepository = new UserRepository();
+
         [HttpGet]
         public IActionResult Index()
         {
@@ -21,13 +24,14 @@ namespace tarea0704.Controllers
         [HttpPost]
         public IActionResult Login(string correo, string contraseña)
         {
-            UserRepository userRepository = new UserRepository();
+            
             string[] parametros = ["'"+correo+"'", "'"+contraseña+"'"];
             Boolean existe = userRepository.verificarUsuario(parametros);
 
             if(existe){
                 User user = userRepository.ObtenerUsuario(correo);
                 ViewBag.Mensaje = "Bienvenido " + user.Nombres + " "+ user.Apellidos;
+                ViewBag.FNacimiento = user.f_nacimiento;
             }
             else
             {
@@ -35,6 +39,15 @@ namespace tarea0704.Controllers
             }
 
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Registrarse(User user)
+        {
+            Console.Write(user);
+            userRepository.registarUsuario(user);
+
+            return RedirectToAction("Index", "User");
         }
     }
 }

@@ -4,7 +4,7 @@ namespace tarea0704.Models
 {
     public class User
     {
-        public int Id { get; set; }
+        public int? Id { get; set; }
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
         public string usuario { get; set; }
@@ -27,5 +27,6 @@ namespace tarea0704.Models
             this.contraseña = row["contraseña"].ToString();
 
         }
+        public User() { }
     }
 }

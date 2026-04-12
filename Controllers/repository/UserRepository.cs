@@ -12,16 +12,17 @@ namespace tarea0704.Controllers.repository
             DB db = new DB();
 
             string[] parametros = [
-                user.Nombres,
-                user.Apellidos,
-                user.usuario,
-                user.genero,
-                user.f_nacimiento,
-                user.dni,
-                user.correo,
-                user.contraseña
+                "'"+ user.Nombres +"'",
+                "'"+ user.Apellidos +"'",
+                "'"+ user.usuario +"'",
+                "'"+ user.genero +"'",
+                "'"+ user.f_nacimiento +"'",
+                "'"+ user.dni +"'",
+                "'"+ user.correo+"'",
+                "'"+ user.contraseña +"'"
                 ];
 
+            
             db.EjecutarSQL("sp_registrar", parametros);
         }
 
